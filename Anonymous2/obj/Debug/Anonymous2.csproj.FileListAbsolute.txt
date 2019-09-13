@@ -1,0 +1,9 @@
+c:\users\petra\documents\visual studio 2015\Projects\Anonymous2\Anonymous2\bin\Debug\Anonymous2.exe.config
+c:\users\petra\documents\visual studio 2015\Projects\Anonymous2\Anonymous2\bin\Debug\Anonymous2.exe
+c:\users\petra\documents\visual studio 2015\Projects\Anonymous2\Anonymous2\bin\Debug\Anonymous2.pdb
+c:\users\petra\documents\visual studio 2015\Projects\Anonymous2\Anonymous2\obj\Debug\Anonymous2.exe
+c:\users\petra\documents\visual studio 2015\Projects\Anonymous2\Anonymous2\obj\Debug\Anonymous2.pdb
+C:\Users\Petra\Documents\Visual Studio 2015\Projects\Anonymous2\Anonymous2\obj\Debug\Anonymous2.csprojResolveAssemblyReference.cache
+D:\Second semester\Bcad 2\Delegates\Anonymous2\Anonymous2\bin\Debug\Anonymous2.exe.config
+D:\Second semester\Bcad 2\Delegates\Anonymous2\Anonymous2\obj\Debug\Anonymous2.exe
+D:\Second semester\Bcad 2\Delegates\Anonymous2\Anonymous2\obj\Debug\Anonymous2.pdb
